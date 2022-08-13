@@ -2,6 +2,7 @@
 
 ML methods explained and implemented in Python.
 
-Add new mehtods:
+Add new methods:
 - LDA/ QDA
 - Multinomial Logit/ Probit
+- AB testing
