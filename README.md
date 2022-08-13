@@ -1,6 +1,6 @@
-# ML
+# Statistical Learning
 
-ML methods explained and implemented in Python.
+Statistical Learning methods explained and implemented in Python.
 
 Add new methods:
 - LDA/ QDA
